@@ -1,0 +1,75 @@
+# Blender MTL File: 'cenario.blend'
+# Material Count: 6
+
+newmtl casa
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.054545 0.054545 0.054545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd casa Base Color.png
+map_Ns casa Roughness.png
+
+newmtl casa.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.031818 0.031818 0.031818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd casa Base Color.png
+map_Ns casa Roughness.png
+
+newmtl casa2
+Ns 0.062500
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.081818 0.081818 0.081818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd casa2 Base Color.png
+
+newmtl folhas
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.063636 0.063636 0.063636
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd folhas.png
+map_d folhas.png
+
+newmtl terreno
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.081818 0.081818 0.081818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.700001 normal_terreno.png
+map_Kd terreno Base Color.png
+map_Ns .
+map_d terreno Base Color.png
+
+newmtl torre
+Ns 1.147958
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.077273 0.077273 0.077273
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd torre Base Color.png
+map_d torre Base Color.png
